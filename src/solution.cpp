@@ -1,6 +1,7 @@
 #include "multiplechoicesubsetsumsolver/solution.hpp"
 
 #include "optimizationtools/utils/utils.hpp"
+#include <iomanip>
 
 using namespace multiplechoicesubsetsumsolver;
 
